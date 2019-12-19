@@ -1,2 +1,4 @@
 # 30daysOfCode-Challenges
-#30DaysofCode #JSMinna #JSMinnaChallenge
+# 30DaysofCode
+# JSMinna
+# JSMinnaChallenge
